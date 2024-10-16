@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.electronicshero-section img{
+    width: 100%;
+    height: 400px;
+   margin-bottom: 11px;
+   border-radius: 11px;
+   
+
+}
+.electronicshero-section{
+    padding-top: 107px;
+}
+.Electronicproducts{
+    display: flex;
+    justify-content:flex-start;
+    padding: 20px;
+    gap: 20px;
+    padding-bottom: 5px;
+   }
+.Electroniccard{
+    flex: 1 1 5000px;
+    max-width:500px ;
+    padding-left: 30px;
+    
+    
+}
+.Electroniccard img{
+    width: 100%;
+    height: 390px;
+    border-radius: 10px 10px 0px 0px;
+    object-fit: cover;
+    
+} 
+.Electroniccardcontent{
+    background-color:whitesmoke;
+    padding: 10px;
+    border-radius: 0px 0px 10px 10px;
+    
+}  
+.Electroniccardcontent p{
+    padding-left:15px ;
+      margin-bottom: 10px ;
+}
+.Electroniccardcontent button{
+    width: 98%;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+.Electroniccardcontent button:hover{
+    cursor: pointer;
+    background-color:grey;
+}

@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.todays-hero-section{
+    padding-top: 115px;
+    margin-bottom: 0%;
+   
+}
+#gif{
+    width: 100%;
+    height: 290px;
+    padding-right: 15px;
+}
+.todays-hero-section img{
+width: 100%; 
+height:450px ; 
+margin-bottom: 20px;
+}
+
+#todaysbutton1{
+    position: absolute;
+    top: 100%;
+    margin-left: 47%;
+    padding: 10px 25px;
+    font-weight: 400;
+    border-radius: 5px;
+}
+
+#todaysbutton1:hover{
+    cursor: pointer;
+    background-color: rgb(189, 159, 105);
+    text-decoration: underline;
+}
+
+#todaysbutton2{
+    position: absolute;
+    top: 165%;
+    margin-left: 48%;
+    padding: 10px 25px;
+    font-weight: 400;
+    border-radius: 5px;
+
+}
+
+#todaysbutton2:hover{
+    cursor: pointer;
+    background-color: rgb(189, 159, 105);
+    text-decoration: underline;
+}
+
+    
+
+
